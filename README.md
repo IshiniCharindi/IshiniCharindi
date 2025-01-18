@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishinicharindi" alt="ishinicharindi" /></a> </p>
 
-- 🌱 I’m currently learning **React,PHP.JSP**
+- 🌱 I’m currently learning **Spring boot,Node JS,Flutter**
 
 - 📫 How to reach me **ishinidewamiththa@gmail.com**
 
