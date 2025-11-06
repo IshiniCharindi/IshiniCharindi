@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning: **Spring Boot, Node.js, Flutter**
+- 🌱 Currently learning: **React Native, Nest JS**
 - 🧑‍💻 Passionate about Full Stack Development
 - 📫 Reach me at: **ishinidewamiththa@gmail.com**
 
