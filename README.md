@@ -1,121 +1,98 @@
-<h1 align="center">👋 Hi, I'm Ishini Dewamiththa</h1>
-<h3 align="center">Computer Science Undergraduate | Full Stack Developer | Passionate about Building Scalable Solutions</h3>
+<!-- HOLOGRAPHIC MATRIX PROFILE -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishinicharindi&label=Profile%20views&color=0e75b6&style=flat" alt="ishinicharindi" />
-  <a href="https://github.com/ishinicharindi?tab=followers">
-    <img src="https://img.shields.io/github/followers/ishinicharindi?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+👋,+I'm+Ishini+Dewamiththa;Full+Stack+Alchemist;AI+Research+Explorer;Code+Artisan" alt="Animated Header">
 
----
+<!-- HOLOGRAM BADGES -->
+<div align="center">
 
-## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=ishinicharindi&label=MATRIX+VIEWS&color=00D9FF&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/ishinicharindi?label=FOLLOWERS&color=00FF88&style=for-the-badge)
+![Repositories](https://badges.pufler.dev/repos/ishinicharindi?color=FF00E6&style=for-the-badge)
 
-I'm a passionate Computer Science undergraduate at Uva Wellassa University of Sri Lanka, with a strong focus on full-stack development. I enjoy creating efficient, scalable solutions and continuously expanding my technical skills through hands-on projects.
+</div>
 
-- 🔭 **Currently Working On:** Building full-stack applications with modern technologies
-- 🌱 **Currently Learning:** React Native, NestJS, and advanced backend architectures
-- 👯 **Looking For:** Internship opportunities in software development
-- 💼 **Skills:** Full Stack Development, Problem Solving, Team Collaboration
-- 📫 **How to reach me:** ishinidewamiththa@gmail.com
-- ⚡ **Fun fact:** I love turning complex problems into simple, beautiful solutions
+</div>
 
----
+<br>
 
-## 🛠️ Technical Skills
+<!-- NEURAL NETWORK GRID -->
+<div align="center">
 
-### Frontend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</p>
+<!-- MAIN PROFILE CARD -->
+<table>
+  <tr>
+    <td width="60%">
+    
+## 🧠 **Digital Consciousness**
 
-### Backend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</p>
+> *"Crafting the future, one algorithm at a time"*
 
-### Databases & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</p>
+A passionate **Computer Science Virtuoso** with a **3.83/4.00 GPA**, specializing in full-stack development and AI research. Currently exploring the frontiers of reinforcement learning and enterprise-scale systems.
 
----
+**Core Identity Matrix:**
+- 🔮 **Digital Architect**: Full-Stack Developer & AI Researcher
+- 🎯 **Academic Excellence**: Dean's List Scholar
+- 🏆 **Competition Champion**: SheCoderess v6 Winner
+- 🚀 **Innovation Seeker**: Always pushing technological boundaries
 
-## 📈 GitHub Analytics
+    </td>
+    <td width="40%">
+    
+## 📡 **Neural Connections**
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishinicharindi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishinicharindi&theme=github-dark-blue&hide_border=true" />
-</p>
+```json
+{
+  "status": "ACTIVE",
+  "mode": "INNOVATION",
+  "current_mission": "INTERNSHIP_2024",
+  "specializations": [
+    "FULL_STACK",
+    "AI_RESEARCH", 
+    "MOBILE_DEV",
+    "CLOUD_ARCH"
+  ],
+  "energy_level": "MAXIMUM",
+  "learning_phase": "ADVANCED"
+}
 
-<p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishinicharindi&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+<!-- TECH STACK HOLOGRAM -->
+⚡ Tech Stack Hologram
+<!-- PROGRAMMING LANGUAGES -->
+🔤 Language Matrix
+<div align="center">
+JavaScript TypeScript Java Python PHP C HTML/CSS
 
----
+</div><!-- FRONTEND UNIVERSE -->
+🎨 Frontend Galaxy
+<div align="center">
+React.js Next.js React Native Flutter Tailwind CSS Bootstrap Redux
 
-## 🏆 GitHub Trophies
+</div><!-- BACKEND COSMOS -->
+🚀 Backend Cosmos
+<div align="center">
+Node.js Express.js NestJS Spring Boot Django Flask .NET
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishinicharindi&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
-</p>
+</div><!-- DATABASE NEBULA -->
+💾 Database Nebula
+<div align="center">
+MySQL PostgreSQL MongoDB Redis
 
----
+</div><!-- TOOLS & TECHNOLOGIES -->
+🛠️ Development Tools
+<div align="center">
+Git GitHub Postman Docker TensorFlow ZKTeco SDK HashiCorp Vault
 
-## 📂 Featured Projects
+</div>
+<!-- ACHIEVEMENT CONSTELLATION -->
+🌠 Achievement Constellation
+<div align="center"><!-- ACHIEVEMENT GRID --><table> <tr align="center"> <td> <img src="https://img.shields.io/badge/SHE_CODERESS-V6_CHAMPION-FF00E6?style=for-the-badge&logo=starship&logoColor=white" width="200"> </td> <td> <img src="https://img.shields.io/badge/NBQSA-2025_FINALIST-00D9FF?style=for-the-badge&logo=academia&logoColor=white" width="200"> </td> <td> <img src="https://img.shields.io/badge/DEAN'S_LIST-3.83_GPA-00FF88?style=for-the-badge&logo=bookstack&logoColor=white" width="200"> </td> </tr> <tr align="center"> <td>🏆 Hackathon Champion</td> <td>🎯 National ICT Awards</td> <td>📚 Academic Excellence</td> </tr> </table><table> <tr align="center"> <td> <img src="https://img.shields.io/badge/UVA_XTREAM-ALGORITHMIC_HACKATHON-FF6B00?style=for-the-badge&logo=codesandbox&logoColor=white" width="250"> </td> <td> <img src="https://img.shields.io/badge/ENGWRANGLE-DEBATE_CHAMPION-8A2BE2?style=for-the-badge&logo=mic&logoColor=white" width="250"> </td> </tr> <tr align="center"> <td>💻 Algorithm Competition</td> <td>🎤 Debate Champion</td> </tr> </table></div>
+<!-- LEADERSHIP MATRIX -->
+👑 Leadership & Contributions
+<div align="center"><table> <tr align="center"> <td width="33%">
+🌐 Webmaster
+IEEE Women in Engineering
+Uva Wellassa University
+2025
 
-### [Project 1 Name]
-🔗 **Repository:** [Link to your best project]  
-📝 **Description:** Brief description of what the project does and technologies used  
-🛠️ **Tech Stack:** React, Node.js, MySQL, etc.  
-⭐ **Key Features:** 
-- Feature 1
-- Feature 2
-- Feature 3
-
-### [Project 2 Name]
-🔗 **Repository:** [Link to your second best project]  
-📝 **Description:** Brief description of what the project does  
-🛠️ **Tech Stack:** Java, Spring Boot, MongoDB, etc.
-
-*(Add 2-3 of your best projects here with proper descriptions)*
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ishinidewamiththa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## 📊 Development Activity
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishinicharindi&theme=github-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-<p align="center">
-  <i>⚡ Always learning, always building, always growing</i>
-</p>
