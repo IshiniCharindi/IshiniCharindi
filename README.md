@@ -1,678 +1,173 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ishini Dewamiththa | Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        :root {
-            --primary: #2C67F2;
-            --secondary: #8A2BE2;
-            --accent: #00D4AA;
-            --dark: #0A0A14;
-            --light: #F5F7FA;
-            --gray: #6C757D;
-            --card-bg: rgba(255, 255, 255, 0.05);
-            --transition: all 0.3s ease;
-        }
+<!-- PROFILE HEADER -->
+<div align="center">
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2C67F2&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Ishini+👋;Full+Stack+Developer+💻;AI+Enthusiast+🤖;Problem+Solver+💡" alt="Typing Animation" />
 
-        body {
-            background: linear-gradient(135deg, var(--dark) 0%, #1a1a2e 50%, #16213e 100%);
-            color: var(--light);
-            line-height: 1.6;
-            overflow-x: hidden;
-        }
+<!-- Profile Stats -->
+<div align="center">
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
+![Profile Views](https://komarev.com/ghpvc/?username=ishinicharindi&label=PROFILE+VIEWS&color=2C67F2&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ishinicharindi?color=8A2BE2&label=FOLLOWERS&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ishinicharindi?color=00D4AA&label=STARS&style=for-the-badge)
 
-        /* Header Styles */
-        .header {
-            padding: 80px 0 40px;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(44, 103, 242, 0.1) 0%, rgba(138, 43, 226, 0.05) 30%, transparent 70%);
-            z-index: -1;
-        }
+</div>
 
-        .profile-image {
-            width: 180px;
-            height: 180px;
-            border-radius: 50%;
-            margin: 0 auto 20px;
-            border: 4px solid var(--primary);
-            box-shadow: 0 0 30px rgba(44, 103, 242, 0.5);
-            background: linear-gradient(45deg, var(--primary), var(--secondary));
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 60px;
-            color: white;
-        }
+<br />
 
-        .name {
-            font-size: 3.5rem;
-            font-weight: 800;
-            margin-bottom: 10px;
-            background: linear-gradient(90deg, var(--primary), var(--secondary), var(--accent));
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-            letter-spacing: -1px;
-        }
+<!-- MAIN CONTENT GRID -->
+<div align="center">
 
-        .tagline {
-            font-size: 1.5rem;
-            margin-bottom: 20px;
-            color: var(--light);
-            font-weight: 300;
-        }
+| 🎯 **About Me** | 🚀 **Current Focus** |
+|-----------------|----------------------|
+| <ul><li>🎓 B.Sc. Computer Science @ UWU</li><li>📊 GPA: 3.83/4.00</li><li>📍 Kandy, Sri Lanka</li><li>💡 Passionate about AI & Full Stack</li><li>🏆 Dean's List Awardee</li></ul> | <ul><li>🔬 Building scalable applications</li><li>🤖 Exploring AI/ML integration</li><li>📱 React Native development</li><li>⚡ Performance optimization</li><li>🔒 Security best practices</li></ul> |
 
-        .badges {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-            margin-top: 20px;
-        }
+</div>
 
-        .badge {
-            background: var(--card-bg);
-            padding: 8px 16px;
-            border-radius: 50px;
-            font-size: 0.9rem;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            transition: var(--transition);
-        }
+<br />
 
-        .badge:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-        }
+<!-- TECH STACK WITH ICONS -->
+## 🛠️ **Tech Arsenal**
 
-        /* Section Styles */
-        .section {
-            margin: 60px 0;
-            padding: 40px 0;
-        }
+<!-- Programming Languages -->
+### 💻 **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-        .section-title {
-            font-size: 2.2rem;
-            margin-bottom: 30px;
-            position: relative;
-            display: inline-block;
-        }
+<!-- Frontend -->
+### 🎨 **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-        .section-title::after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 0;
-            width: 60px;
-            height: 4px;
-            background: linear-gradient(90deg, var(--primary), var(--accent));
-            border-radius: 2px;
-        }
+<!-- Backend -->
+### ⚙️ **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-        /* About Section */
-        .about-content {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 40px;
-            align-items: center;
-        }
+<!-- Databases -->
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-        .education-card {
-            background: var(--card-bg);
-            padding: 25px;
-            border-radius: 15px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            transition: var(--transition);
-        }
+<br />
 
-        .education-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
-        }
+<!-- PROJECTS SHOWCASE -->
+## 🌟 **Featured Projects**
 
-        .university {
-            font-size: 1.3rem;
-            font-weight: 600;
-            margin-bottom: 10px;
-            color: var(--accent);
-        }
+### 🚦 **Traffic Flow Optimization** [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/IshiniCharindi)
+> Reinforcement Learning-based traffic light control system to reduce congestion
+- **Tech**: Python • TensorFlow • SUMO • OpenCV
+- **Features**: Real-time optimization • Simulation • AI-powered decision making
 
-        .degree {
-            font-size: 1.1rem;
-            margin-bottom: 5px;
-        }
+### 🏢 **Detroits ERP System** [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/IshiniCharindi)
+> Comprehensive ERP platform integrating biometric attendance and payroll
+- **Tech**: React.js • Node.js • MySQL • Redis • .NET
+- **Features**: Biometric integration • Real-time analytics • Multi-module system
 
-        .gpa {
-            font-size: 1rem;
-            color: var(--gray);
-        }
+### 💳 **COOP Digital** [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/IshiniCharindi)
+> Mobile banking app for cooperative societies with secure management
+- **Tech**: React Native • NestJS • MySQL • JWT
+- **Features**: Secure transactions • Account management • Mobile-first design
 
-        .quote {
-            font-style: italic;
-            padding: 20px;
-            border-left: 4px solid var(--primary);
-            background: rgba(44, 103, 242, 0.1);
-            border-radius: 0 10px 10px 0;
-            margin-top: 20px;
-        }
+### 🔍 **UvaXplore** [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/IshiniCharindi)
+> Centralized research repository with ML-powered search
+- **Tech**: React.js • Spring Boot • Flask • PostgreSQL
+- **Features**: ML search • Digital signing • Research catalog
 
-        /* Tech Stack */
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
+<br />
 
-        .tech-item {
-            background: var(--card-bg);
-            border-radius: 10px;
-            padding: 15px;
-            text-align: center;
-            transition: var(--transition);
-            border: 1px solid rgba(255, 255, 255, 0.05);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
+<!-- ACHIEVEMENTS SECTION -->
+## 🏆 **Achievements & Awards**
 
-        .tech-item:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-            border-color: rgba(44, 103, 242, 0.3);
-        }
+| 🥇 | **Champion** - SheCoderess v6 (Hackathon & Design Showdown, 2025) |
+|---|-----------------------------------------------------------------|
+| 🥈 | **Participant** - National ICT Awards (NBQSA) - Represented UWU |
+| 🎓 | **Dean's List Recognition** (2022–2024) - Consistent academic excellence |
+| 🗣️ | **Champion** - EngWrangle 2.0 (Debate Competition) |
+| ⚡ | **Participant** - UvaXtream 1.0 (12-hour Algorithmic Hackathon) |
 
-        .tech-icon {
-            font-size: 2rem;
-            margin-bottom: 10px;
-        }
+<br />
 
-        .tech-name {
-            font-size: 0.8rem;
-            color: var(--light);
-        }
+<!-- GITHUB STATS -->
+## 📊 **GitHub Analytics**
 
-        /* Projects */
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: 30px;
-        }
+<div align="center">
 
-        .project-card {
-            background: var(--card-bg);
-            border-radius: 15px;
-            overflow: hidden;
-            transition: var(--transition);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-        }
+<!-- GitHub Stats -->
+<a href="https://github.com/IshiniCharindi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishinicharindi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2C67F2&icon_color=00D4AA&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishinicharindi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C67F2&text_color=FFFFFF&langs_count=8" />
+</a>
 
-        .project-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
-        }
+<!-- Streak Stats -->
+<a href="https://github.com/IshiniCharindi">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishinicharindi&theme=tokyonight&hide_border=true&background=0D1117&stroke=2C67F2&fire=00D4AA&ring=8A2BE2&currStreakLabel=2C67F2" />
+</a>
 
-        .project-header {
-            padding: 20px;
-            background: rgba(44, 103, 242, 0.1);
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-        }
+</div>
 
-        .project-title {
-            font-size: 1.3rem;
-            font-weight: 600;
-            margin-bottom: 5px;
-            color: var(--accent);
-        }
+<br />
 
-        .project-desc {
-            font-size: 0.95rem;
-            color: var(--light);
-            opacity: 0.9;
-        }
+<!-- ACTIVITY GRAPH -->
+## 📈 **Contribution Graph**
 
-        .project-body {
-            padding: 20px;
-        }
+<div align="center">
 
-        .project-tech {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-top: 15px;
-        }
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishinicharindi&theme=react-dark&bg_color=0D1117&color=2C67F2&line=00D4AA&point=8A2BE2&hide_border=true&area=true&area_color=2C67F2&title_color=FFFFFF)
 
-        .tech-tag {
-            background: rgba(44, 103, 242, 0.2);
-            padding: 5px 10px;
-            border-radius: 20px;
-            font-size: 0.8rem;
-        }
+</div>
 
-        /* Achievements */
-        .achievements-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 20px;
-        }
+<br />
 
-        .achievement-card {
-            background: var(--card-bg);
-            padding: 20px;
-            border-radius: 10px;
-            display: flex;
-            align-items: center;
-            gap: 15px;
-            transition: var(--transition);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
+<!-- VOLUNTEERING & ACTIVITIES -->
+## 🤝 **Leadership & Activities**
 
-        .achievement-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-        }
+- 🌸 **Webmaster** - IEEE Women in Engineering, UWU
+- 🧩 **LaTeX Contributor** - IRCUWU2025 Conference Proceedings
+- ♟️ **Chess Team Member** - Uva Wellassa University
+- 🎯 **Tech Mentor** - Student mentorship programs
 
-        .achievement-icon {
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5rem;
-        }
+<br />
 
-        .achievement-text h3 {
-            font-size: 1.1rem;
-            margin-bottom: 5px;
-        }
+<!-- CONTACT & CONNECT -->
+## 📞 **Let's Connect**
 
-        .achievement-text p {
-            font-size: 0.9rem;
-            color: var(--gray);
-        }
+<div align="center">
 
-        /* Contact */
-        .contact-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 30px;
-        }
+<!-- Contact Links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C67F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ishinidewamiththa.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishinidewamiththa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishini-dewamiththa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshiniCharindi)
 
-        .contact-link {
-            width: 60px;
-            height: 60px;
-            border-radius: 50%;
-            background: var(--card-bg);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5rem;
-            transition: var(--transition);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
+</div>
 
-        .contact-link:hover {
-            transform: translateY(-5px) scale(1.1);
-            background: var(--primary);
-            box-shadow: 0 10px 20px rgba(44, 103, 242, 0.3);
-        }
+<br />
 
-        /* Stats */
-        .stats-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
+<!-- FOOTER QUOTE -->
+<div align="center">
 
-        .stat-card {
-            background: var(--card-bg);
-            padding: 25px;
-            border-radius: 15px;
-            text-align: center;
-            transition: var(--transition);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
+### 💫 **"Turning ideas into interactive experiences — one commit at a time."**
 
-        .stat-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-        }
+⭐ **Feel free to explore my repositories and don't forget to star if you find something interesting!**
 
-        .stat-number {
-            font-size: 2.5rem;
-            font-weight: 700;
-            margin-bottom: 10px;
-            background: linear-gradient(90deg, var(--primary), var(--accent));
-            -webkit-background-clip: text;
-            background-clip: text;
-            color: transparent;
-        }
+</div>
 
-        .stat-label {
-            font-size: 1rem;
-            color: var(--gray);
-        }
+---
 
-        /* Footer */
-        .footer {
-            text-align: center;
-            padding: 40px 0;
-            margin-top: 60px;
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-        }
+<div align="center">
 
-        /* Animations */
-        @keyframes float {
-            0% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-            100% { transform: translateY(0px); }
-        }
+**Last Updated**: 🗓️ _{{CURRENT_DATE}}_
 
-        .floating {
-            animation: float 5s ease-in-out infinite;
-        }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            .about-content {
-                grid-template-columns: 1fr;
-            }
-            
-            .name {
-                font-size: 2.5rem;
-            }
-            
-            .tagline {
-                font-size: 1.2rem;
-            }
-            
-            .projects-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Header Section -->
-        <header class="header">
-            <div class="profile-image">
-                <i class="fas fa-code"></i>
-            </div>
-            <h1 class="name">Ishini Dewamiththa</h1>
-            <p class="tagline">Aspiring Full Stack Developer | Undergraduate at Uva Wellassa University of Sri Lanka</p>
-            
-            <div class="badges">
-                <div class="badge">🚀 Full Stack Developer</div>
-                <div class="badge">🎓 GPA: 3.83/4.00</div>
-                <div class="badge">📍 Kandy, Sri Lanka</div>
-            </div>
-        </header>
-
-        <!-- About Section -->
-        <section class="section">
-            <h2 class="section-title">About Me</h2>
-            <div class="about-content">
-                <div class="education-card floating">
-                    <h3 class="university">Uva Wellassa University of Sri Lanka</h3>
-                    <p class="degree">B.Sc. (Hons) in Computer Science and Technology</p>
-                    <p class="gpa">Current GPA: 3.83/4.00</p>
-                    <div class="quote">
-                        "Code is not just logic — it's creativity, empathy, and problem-solving blended together."
-                    </div>
-                </div>
-                <div>
-                    <p>I'm a passionate full-stack developer with a strong foundation in computer science and a drive to create innovative solutions. Currently exploring React Native and NestJS while building scalable applications.</p>
-                    <div class="contact-links">
-                        <a href="mailto:ishinidewamiththa@gmail.com" class="contact-link">
-                            <i class="fas fa-envelope"></i>
-                        </a>
-                        <a href="https://linkedin.com/in/ishini-dewamiththa" class="contact-link">
-                            <i class="fab fa-linkedin-in"></i>
-                        </a>
-                        <a href="https://github.com/IshiniCharindi" class="contact-link">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="https://ishinidewamiththa.me" class="contact-link">
-                            <i class="fas fa-globe"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Tech Stack Section -->
-        <section class="section">
-            <h2 class="section-title">Technical Stack</h2>
-            <div class="tech-grid">
-                <div class="tech-item">
-                    <i class="fab fa-js tech-icon"></i>
-                    <span class="tech-name">JavaScript</span>
-                </div>
-                <div class="tech-item">
-                    <i class="fab fa-react tech-icon"></i>
-                    <span class="tech-name">React</span>
-                </div>
-                <div class="tech-item">
-                    <i class="fab fa-node-js tech-icon"></i>
-                    <span class="tech-name">Node.js</span>
-                </div>
-                <div class="tech-item">
-                    <i class="fab fa-python tech-icon"></i>
-                    <span class="tech-name">Python</span>
-                </div>
-                <div class="tech-item">
-                    <i class="fab fa-java tech-icon"></i>
-                    <span class="tech-name">Java</span>
-                </div>
-                <div class="tech-item">
-                    <i class="fas fa-database tech-icon"></i>
-                    <span class="tech-name">MySQL</span>
-                </div>
-                <div class="tech-item">
-                    <i class="fab fa-git-alt tech-icon"></i>
-                    <span class="tech-name">Git</span>
-                </div>
-                <div class="tech-item">
-                    <i class="fab fa-docker tech-icon"></i>
-                    <span class="tech-name">Docker</span>
-                </div>
-            </div>
-        </section>
-
-        <!-- Projects Section -->
-        <section class="section">
-            <h2 class="section-title">Featured Projects</h2>
-            <div class="projects-grid">
-                <div class="project-card">
-                    <div class="project-header">
-                        <h3 class="project-title">Traffic Flow Optimization</h3>
-                        <p class="project-desc">Reinforcement Learning-based traffic light control system</p>
-                    </div>
-                    <div class="project-body">
-                        <p>AI-powered system to reduce congestion in Sri Lanka using TensorFlow and SUMO simulation.</p>
-                        <div class="project-tech">
-                            <span class="tech-tag">Python</span>
-                            <span class="tech-tag">TensorFlow</span>
-                            <span class="tech-tag">SUMO</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="project-card">
-                    <div class="project-header">
-                        <h3 class="project-title">Detroits ERP System</h3>
-                        <p class="project-desc">Comprehensive ERP platform with biometric integration</p>
-                    </div>
-                    <div class="project-body">
-                        <p>Integrated biometric attendance, payroll, and finance modules for enterprise management.</p>
-                        <div class="project-tech">
-                            <span class="tech-tag">React.js</span>
-                            <span class="tech-tag">Node.js</span>
-                            <span class="tech-tag">MySQL</span>
-                            <span class="tech-tag">Redis</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="project-card">
-                    <div class="project-header">
-                        <h3 class="project-title">COOP Digital</h3>
-                        <p class="project-desc">Mobile app for cooperative banking</p>
-                    </div>
-                    <div class="project-body">
-                        <p>Secure account management and banking services for cooperative societies.</p>
-                        <div class="project-tech">
-                            <span class="tech-tag">React Native</span>
-                            <span class="tech-tag">NestJS</span>
-                            <span class="tech-tag">MySQL</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Achievements Section -->
-        <section class="section">
-            <h2 class="section-title">Achievements & Highlights</h2>
-            <div class="achievements-grid">
-                <div class="achievement-card">
-                    <div class="achievement-icon">
-                        <i class="fas fa-trophy"></i>
-                    </div>
-                    <div class="achievement-text">
-                        <h3>Champion – SheCoderess v6</h3>
-                        <p>Hackathon & Design Showdown, 2025</p>
-                    </div>
-                </div>
-                
-                <div class="achievement-card">
-                    <div class="achievement-icon">
-                        <i class="fas fa-medal"></i>
-                    </div>
-                    <div class="achievement-text">
-                        <h3>Participant – NBQSA</h3>
-                        <p>National ICT Awards</p>
-                    </div>
-                </div>
-                
-                <div class="achievement-card">
-                    <div class="achievement-icon">
-                        <i class="fas fa-award"></i>
-                    </div>
-                    <div class="achievement-text">
-                        <h3>Dean's List Recognition</h3>
-                        <p>2022–2024</p>
-                    </div>
-                </div>
-                
-                <div class="achievement-card">
-                    <div class="achievement-icon">
-                        <i class="fas fa-microphone"></i>
-                    </div>
-                    <div class="achievement-text">
-                        <h3>Champion – EngWrangle 2.0</h3>
-                        <p>Debate Competition</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Stats Section -->
-        <section class="section">
-            <h2 class="section-title">GitHub Insights</h2>
-            <div class="stats-container">
-                <div class="stat-card">
-                    <div class="stat-number">150+</div>
-                    <div class="stat-label">Contributions</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">15</div>
-                    <div class="stat-label">Repositories</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">6</div>
-                    <div class="stat-label">Languages</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">3.83</div>
-                    <div class="stat-label">GPA Score</div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Footer -->
-        <footer class="footer">
-            <p>Let's collaborate on impactful projects! Reach out at <a href="mailto:ishinidewamiththa@gmail.com" style="color: var(--accent);">ishinidewamiththa@gmail.com</a></p>
-            <p style="margin-top: 20px; color: var(--gray);">"Turning ideas into interactive experiences — one commit at a time."</p>
-        </footer>
-    </div>
-
-    <script>
-        // Add floating animation to multiple elements
-        document.addEventListener('DOMContentLoaded', function() {
-            const floatingElements = document.querySelectorAll('.floating');
-            floatingElements.forEach((el, index) => {
-                el.style.animationDelay = `${index * 0.5}s`;
-            });
-            
-            // Add scroll animations
-            const observerOptions = {
-                threshold: 0.1,
-                rootMargin: '0px 0px -50px 0px'
-            };
-            
-            const observer = new IntersectionObserver(function(entries) {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.opacity = 1;
-                        entry.target.style.transform = 'translateY(0)';
-                    }
-                });
-            }, observerOptions);
-            
-            const sections = document.querySelectorAll('.section');
-            sections.forEach(section => {
-                section.style.opacity = 0;
-                section.style.transform = 'translateY(20px)';
-                section.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
-                observer.observe(section);
-            });
-        });
-    </script>
-</body>
-</html>
+</div>
