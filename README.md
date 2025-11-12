@@ -1,98 +1,103 @@
-<!-- HOLOGRAPHIC MATRIX PROFILE -->
-<div align="center">
+<!-- HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#2C67F2;">Ishini Dewamiththa</span></h1>
+<h3 align="center">💻 Aspiring Full Stack Developer | Undergraduate at Uva Wellassa University of Sri Lanka</h3>
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00D9FF&center=true&vCenter=true&width=500&height=70&lines=Hi+👋,+I'm+Ishini+Dewamiththa;Full+Stack+Alchemist;AI+Research+Explorer;Code+Artisan" alt="Animated Header">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishinicharindi&label=Profile%20Views&color=2C67F2&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Kandy%2C%20Sri%20Lanka-00bfa5?style=flat-square" />
+</p>
 
-<!-- HOLOGRAM BADGES -->
-<div align="center">
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishinicharindi&label=MATRIX+VIEWS&color=00D9FF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/ishinicharindi?label=FOLLOWERS&color=00FF88&style=for-the-badge)
-![Repositories](https://badges.pufler.dev/repos/ishinicharindi?color=FF00E6&style=for-the-badge)
+## 🚀 **About Me**
 
-</div>
+🎓 **B.Sc. (Hons) in Computer Science and Technology**  
+_Uva Wellassa University of Sri Lanka_  
+📊 **Current GPA:** 3.83/4.00  
 
-</div>
+🌱 Currently Exploring: **React Native** | **NestJS**  
+💡 Passionate about: **Building Scalable Full Stack Applications**  
+📧 Reach me at: **[ishinidewamiththa@gmail.com](mailto:ishinidewamiththa@gmail.com)**  
+🌍 Portfolio: **[ishinidewamiththa.me](https://ishinidewamiththa.me)**
 
-<br>
+> “Code is not just logic — it’s creativity, empathy, and problem-solving blended together.”
 
-<!-- NEURAL NETWORK GRID -->
-<div align="center">
+---
 
-<!-- MAIN PROFILE CARD -->
-<table>
-  <tr>
-    <td width="60%">
-    
-## 🧠 **Digital Consciousness**
+## 🧠 **Technical Stack**
 
-> *"Crafting the future, one algorithm at a time"*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,nestjs,express,java,python,php,c,html,css,tailwind,bootstrap,mysql,postgresql,mongodb,git,postman" />
+</p>
 
-A passionate **Computer Science Virtuoso** with a **3.83/4.00 GPA**, specializing in full-stack development and AI research. Currently exploring the frontiers of reinforcement learning and enterprise-scale systems.
+---
 
-**Core Identity Matrix:**
-- 🔮 **Digital Architect**: Full-Stack Developer & AI Researcher
-- 🎯 **Academic Excellence**: Dean's List Scholar
-- 🏆 **Competition Champion**: SheCoderess v6 Winner
-- 🚀 **Innovation Seeker**: Always pushing technological boundaries
+## 🏗️ **Featured Projects**
 
-    </td>
-    <td width="40%">
-    
-## 📡 **Neural Connections**
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🚦 **Traffic Flow Optimization** | Reinforcement Learning-based traffic light control system to reduce congestion in Sri Lanka | Python • TensorFlow • SUMO |
+| 🏢 **Detroits ERP System** | Comprehensive ERP platform integrating biometric attendance, payroll, and finance modules | React.js • Node.js • MySQL • Redis • .NET |
+| 💳 **COOP Digital** | Mobile app for cooperative banking with secure account management | React Native • NestJS • MySQL |
+| 🏨 **Kandy Backpackers Hostel** | Hotel booking and tour management system with admin panel | Next.js • MySQL |
+| 🔍 **UvaXplore** | Centralized project & research repository with ML search and digital signing | React.js • Spring Boot • Flask • PostgreSQL |
+| ⌨️ **CODEDASH** | Typing improvement platform for coders with leaderboards and analytics | React.js • PHP • Tailwind • MySQL |
 
-```json
-{
-  "status": "ACTIVE",
-  "mode": "INNOVATION",
-  "current_mission": "INTERNSHIP_2024",
-  "specializations": [
-    "FULL_STACK",
-    "AI_RESEARCH", 
-    "MOBILE_DEV",
-    "CLOUD_ARCH"
-  ],
-  "energy_level": "MAXIMUM",
-  "learning_phase": "ADVANCED"
-}
+---
 
-<!-- TECH STACK HOLOGRAM -->
-⚡ Tech Stack Hologram
-<!-- PROGRAMMING LANGUAGES -->
-🔤 Language Matrix
-<div align="center">
-JavaScript TypeScript Java Python PHP C HTML/CSS
+## 🏆 **Achievements & Highlights**
 
-</div><!-- FRONTEND UNIVERSE -->
-🎨 Frontend Galaxy
-<div align="center">
-React.js Next.js React Native Flutter Tailwind CSS Bootstrap Redux
+- 🥇 **Champion – SheCoderess v6** *(Hackathon & Design Showdown, 2025)*  
+- 🥈 **Participant – National ICT Awards (NBQSA)** *(Represented Uva Wellassa University)*  
+- 🎓 **Dean’s List Recognition** *(2022–2024)*  
+- 🧠 **Champion – EngWrangle 2.0** *(Debate Competition, Dept. of CS & Informatics)*  
+- 🤝 **Participant – UvaXtream 1.0** *(12-hour Algorithmic Hackathon)*  
 
-</div><!-- BACKEND COSMOS -->
-🚀 Backend Cosmos
-<div align="center">
-Node.js Express.js NestJS Spring Boot Django Flask .NET
+---
 
-</div><!-- DATABASE NEBULA -->
-💾 Database Nebula
-<div align="center">
-MySQL PostgreSQL MongoDB Redis
+## 🌐 **Connect with Me**
 
-</div><!-- TOOLS & TECHNOLOGIES -->
-🛠️ Development Tools
-<div align="center">
-Git GitHub Postman Docker TensorFlow ZKTeco SDK HashiCorp Vault
+<p align="center">
+  <a href="https://linkedin.com/in/ishini-dewamiththa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="mailto:ishinidewamiththa@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45" /></a>
+  <a href="https://github.com/IshiniCharindi" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://ishinidewamiththa.me" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="45" /></a>
+</p>
 
-</div>
-<!-- ACHIEVEMENT CONSTELLATION -->
-🌠 Achievement Constellation
-<div align="center"><!-- ACHIEVEMENT GRID --><table> <tr align="center"> <td> <img src="https://img.shields.io/badge/SHE_CODERESS-V6_CHAMPION-FF00E6?style=for-the-badge&logo=starship&logoColor=white" width="200"> </td> <td> <img src="https://img.shields.io/badge/NBQSA-2025_FINALIST-00D9FF?style=for-the-badge&logo=academia&logoColor=white" width="200"> </td> <td> <img src="https://img.shields.io/badge/DEAN'S_LIST-3.83_GPA-00FF88?style=for-the-badge&logo=bookstack&logoColor=white" width="200"> </td> </tr> <tr align="center"> <td>🏆 Hackathon Champion</td> <td>🎯 National ICT Awards</td> <td>📚 Academic Excellence</td> </tr> </table><table> <tr align="center"> <td> <img src="https://img.shields.io/badge/UVA_XTREAM-ALGORITHMIC_HACKATHON-FF6B00?style=for-the-badge&logo=codesandbox&logoColor=white" width="250"> </td> <td> <img src="https://img.shields.io/badge/ENGWRANGLE-DEBATE_CHAMPION-8A2BE2?style=for-the-badge&logo=mic&logoColor=white" width="250"> </td> </tr> <tr align="center"> <td>💻 Algorithm Competition</td> <td>🎤 Debate Champion</td> </tr> </table></div>
-<!-- LEADERSHIP MATRIX -->
-👑 Leadership & Contributions
-<div align="center"><table> <tr align="center"> <td width="33%">
-🌐 Webmaster
-IEEE Women in Engineering
-Uva Wellassa University
-2025
+---
 
+## 📊 **GitHub Insights**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishinicharindi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishinicharindi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishinicharindi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🤍 **Volunteering & Activities**
+
+- 🌸 **Webmaster**, IEEE Women in Engineering – Uva Wellassa University  
+- 🧩 **LaTeX Contributor**, IRCUWU2025 Conference Proceedings  
+- ♟️ **Chess Team Member**, Uva Wellassa University  
+
+---
+
+## 💬 **Let’s Collaborate!**
+
+> I'm always open to contributing to impactful open-source projects or collaborating on innovative ideas that solve real-world problems.
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishinicharindi&theme=algolia&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <i>“Turning ideas into interactive experiences — one commit at a time.”</i>
+</p>
