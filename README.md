@@ -2,7 +2,7 @@
 
 <!-- HERO -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C67F2&height=140&section=header&text=Hi%2C%20I%27m%20Ishini%20Dewamiththa%20%F0%9F%91%8B&fontSize=50&animation=twinkling" alt="header" />
+  <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=2C67F2&height=140&section=header&text=Hi%2C%20I%27m%20Ishini%20Dewamiththa%20%F0%9F%91%8B&fontSize=50&animation=twinkling" alt="header" />
 </p>
 <!-- <h1 align="center">👋 Hey — I'm <span style="color:#2C67F2">Ishini Dewamiththa</span></h1> -->
 <p align="center">
